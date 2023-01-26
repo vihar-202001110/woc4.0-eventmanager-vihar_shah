@@ -1,0 +1,63 @@
+h1{
+    font-size: xx-large;
+    color: cornflowerblue;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-left: 20px; margin-right: 20px;
+}
+label
+{
+    font-size: x-large;
+    font-style: italic;
+}
+html{
+    text-align: center;
+    margin: 20px;
+}
+
+input{
+    border-radius: 10px;
+    border-color: ghostwhite;
+}
+
+input[type=text] {
+    width: 50%;
+    height: 30px;
+}
+input[type=email] {
+    width: 50%;
+    height: 30px;
+}
+input[type=password] {
+    width: 50%;
+    height: 30px;
+}
+input[type=tel] {
+    width: 50%;
+    height: 30px;
+}
+input[type=number] {
+    width: 50%;
+    height: 30px;
+}
+
+textarea{
+    width: 50%;
+    height: 60px;
+    border-radius: 10px;
+}
+
+input[type=submit] {
+    width: 50%; height: 30px;
+    background-color: #45a049;
+    font-size: medium;
+  }
+  input[type=reset] {
+    width: 50%; height: 30px;
+    background-color: #afafaf;
+    font-size: medium;
+  }
